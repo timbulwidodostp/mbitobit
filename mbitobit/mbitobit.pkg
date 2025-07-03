@@ -1,0 +1,6 @@
+D 'mbitobit': Bivariate Tobit regression Use mbitobit With STATA 19
+D
+F mbitobit.ado
+F mbitobit.sthlp
+F mbitobit_lf.ado
+F mbitobit_p.ado
