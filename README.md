@@ -1,6 +1,8 @@
 # mbitobit
 Bivariate Tobit regression Use mbitobit With STATA 19
 
+https://www.youtube.com/watch?v=1oF6cnNnoP0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
